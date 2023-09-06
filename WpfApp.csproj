@@ -105,5 +105,11 @@
     <Folder Include="Model\" />
     <Folder Include="ViewModel\" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\back-image.jpg" />
+    <Resource Include="Images\key-icon.png" />
+    <Resource Include="Images\logo.png" />
+    <Resource Include="Images\user-icon.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
